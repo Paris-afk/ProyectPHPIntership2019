@@ -1,0 +1,85 @@
+
+
+
+body{
+    background: #f0f4f5;
+    margin-right: 0%;
+    
+}
+
+.lateral{
+    
+    
+    height: 900px;
+    color:white;
+    background: black;
+    
+}
+
+.lateralR{
+    background: wheat;
+    height: all;
+    
+}
+
+
+#principal-carousel{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.card{
+    color: black;
+    margin-bottom: 28px;
+    
+}
+
+#opciones{
+    height: 313px;
+    width: 550px;
+}
+
+
+
+header{
+    background: #9aca40;
+    padding: 35px 0px; /*margen interior*/
+    margin-bottom: 20px; /*para separar el header de las otras filas*/
+    text-align: center;
+    
+    border-bottom: 10px solid #e6e6e6;
+}
+
+.contenedor-main{
+    margin-bottom: 20px;
+    margin-right: 0%;
+    text-align: justify;
+    
+}
+
+main{
+    background: #fff;
+    color: #424242;
+    padding: 20px 0px;
+    
+}
+
+aside{
+    /*background: #dee5e8; */
+   align-items: center;
+    color: #0d47a1;
+    margin-right: 0%;
+    margin-top: 50px;
+}
+
+footer{
+    padding: 3  5px 0px;
+    background: black;
+}
+
